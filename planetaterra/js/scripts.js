@@ -106,12 +106,12 @@ const q7 = {
 }
 const q8 = {
     numQuestao   : 8,
-    pergunta     : "A Suíça possui uma área de 41.293 Km2, uma população absoluta estimada em 7 milhões de habitantes, uma renda per capita de 33.150 dólares e uma densidade demográfica de 143 hab/Km2. A partir destes dados você conclui que o país é:",
-    alternativaA : "populoso e povoado.",
-    alternativaB : "povoado.",
-    alternativaC : "superpovoado.",
-    alternativaD : "opuloso e superpovoado.",
-    correta      : "povoado.",
+    pergunta     : "A camada gasosa que envolve a Terra recebe o nome de atmosfera terrestre. Os gases que a compõem ficam retidos no planeta pela força da gravidade e a atmosfera é dividida em 5 camadas: troposfera, estratosfera, mesosfera, termosfera e exosfera.",
+    alternativaA : "troposfera",
+    alternativaB : "estratosfera",
+    alternativaC : "exosfera",
+    alternativaD : "mesosfera",
+    correta      : "troposfera",
 }
 const q9 = {
     numQuestao   : 9,
